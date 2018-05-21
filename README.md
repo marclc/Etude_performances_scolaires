@@ -3,7 +3,7 @@
 
 Données provenant du site de l'[UCI](https://archive.ics.uci.edu/ml/datasets/student+performance) [1]
 
-Données recueillies et exploitées par P. Cortez et A. Silvia. Résultats publié dans leur [article scientifique](http://www3.dsi.uminho.pt/pcortez/student.pdf).
+Données recueillies et exploitées par P. Cortez et A. Silvia. Résultats publiés dans leur [article scientifique](http://www3.dsi.uminho.pt/pcortez/student.pdf).
 
 ### Travail complémentaire réalisé dans ce dossier :
 - Exploration des données sur R par **analyse descriptive**.
